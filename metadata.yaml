@@ -1,0 +1,33 @@
+_repo: Haudankaivajan-kertomuksia_41980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gummerus, K. J. (Kaarle Jaakko)
+    aliases:
+    - Gummerus, Karl Jakob
+    - Gummerus, Kaarle Jaakko
+    - Gummerus, Karl Jacob
+    birthdate: 1840
+    deathdate: 1898
+    gutenberg_agent_id: '5410'
+    url: http://www.gutenberg.org/2009/agents/5410
+description: ''
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41980'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish fiction'
+- !lcsh 'Short stories, Finnish'
+tableOfContents: Alkulause -- Luutnantin tytär -- Kilmalan seksmanni -- Mörkö-Maija
+  -- Hänen kostonsa -- Kirje haudasta -- Iso-isän testamentti -- Papinvaali.
+title: Haudankaivajan kertomuksia
+url: http://www.gutenberg.org/ebooks/41980
